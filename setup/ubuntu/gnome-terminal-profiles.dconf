@@ -1,0 +1,9 @@
+[/]
+default='f0505558-5ecc-4d52-8fe1-b5254366c300'
+list=['b1dcc9dd-5262-4d8d-a863-c897e6d979b9', 'f0505558-5ecc-4d52-8fe1-b5254366c300']
+
+[:f0505558-5ecc-4d52-8fe1-b5254366c300]
+bold-is-bright=true
+palette=['rgb(0,43,54)', 'rgb(220,50,47)', 'rgb(192,221,0)', 'rgb(180,137,0)', 'rgb(38,139,210)', 'rgb(211,54,130)', 'rgb(42,161,152)', 'rgb(238,232,213)', 'rgb(31,255,0)', 'rgb(203,75,22)', 'rgb(42,222,47)', 'rgb(101,123,131)', 'rgb(255,204,0)', 'rgb(230,8,8)', 'rgb(24,213,255)', 'rgb(253,246,227)']
+use-theme-colors=false
+visible-name='solarized-custom'
